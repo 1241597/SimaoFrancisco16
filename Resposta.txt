@@ -1,0 +1,4 @@
+O merge é uma farramenta para unificar as branchs, há 2 tipos de merges, a Automatica: que é processada pelo software, e a manual: que necessita da intervenção de um utilizador
+
+O comando git para verificar os ficheiros adicionados que não estao com o staged é: git status
+o comando para verificar se os ficheiros que estão como staged é: git add
